@@ -1,0 +1,7 @@
+{
+    "deploy": {
+        "appIsGoPath": true,
+        "main": "main",
+        "execDir": "src/cmd/DialogOne"
+    }
+}
